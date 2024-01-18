@@ -25,34 +25,15 @@ const Languages = ({ location, lang }) => {
         </Link>
         <span> / </span>
         <Link
-          aria-label={t('accessibility.es', lang)}
-          to={currentUrl && currentUrl.url_es}
+          aria-label={t('accessibility.zh', lang)}
+          to={currentUrl && currentUrl.url_zh}
           className={`${styles.language_item} ${
-            lang === 'es' ? styles.language_active : ''
+            lang === 'zh' ? styles.language_active : ''
           }`}
         >
-          es
+          中文
         </Link>
-        <span> / </span>
-        <Link
-          aria-label={t('accessibility.ca', lang)}
-          to={currentUrl && currentUrl.url_ca}
-          className={`${styles.language_item} ${
-            lang === 'ca' ? styles.language_active : ''
-          }`}
-        >
-          ca
-        </Link>
-        <span> / </span>
-        <Link
-          aria-label={t('accessibility.de', lang)}
-          to={currentUrl && currentUrl.url_de}
-          className={`${styles.language_item} ${
-            lang === 'de' ? styles.language_active : ''
-          }`}
-        >
-          de
-        </Link>
+        
       </p>
     </div>
   )

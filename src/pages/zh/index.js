@@ -11,7 +11,7 @@ import Contact from '../../components/Contact'
 import curriculum from '../../data/cv_es.pdf'
 import { t } from '../../i18n'
 
-const lang = 'es'
+const lang = 'zh'
 
 const IndexPage = ({ location }) => {
   const { image, yoliImage, projectsImg, seoJson } = useStaticQuery(graphql`

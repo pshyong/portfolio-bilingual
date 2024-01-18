@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import NotFound from '../../components/NotFound'
 
-const lang = 'es'
+const lang = 'zh'
 
 const NotFoundPage = ({ location }) => {
   const { seoJson } = useStaticQuery(graphql`

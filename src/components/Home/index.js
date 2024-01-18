@@ -18,9 +18,9 @@ const Home = ({ lang, homeRef }) => {
           options={{
             strings: [
               `${t('home.author_position', lang)}`,
-              `${t('home.creative', lang)}`,
-              `${t('home.design', lang)}`,
-              `${t('home.develop', lang)}`
+              // `${t('home.creative', lang)}`,
+              // `${t('home.design', lang)}`,
+              // `${t('home.develop', lang)}`
             ],
             autoStart: true,
             loop: true,

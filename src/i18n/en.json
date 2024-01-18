@@ -3,9 +3,9 @@
     "ref": "home",
     "title": "HOME",
     "greeting": "Hello, I am ",
-    "author": "Diana Moreno",
-    "author_position": "I'm a Full Stack Web Developer.",
-    "creative": "I'm a creative mind.",
+    "author": "Patrick Shyong",
+    "author_position": "I'm a Technical Lead.",
+   
     "design": "I love design.",
     "develop": "I love to develop.",
     "view_more": "See more"
@@ -17,32 +17,32 @@
     "cv_button": "Download CV",
     "concepts_key": {
       "concept_key_1": {
-        "title": "Responsive design",
-        "description": "Mobile phones are becoming more popular than computers. That is the reason why I try to make compatible projects with all devices, in line with the trends."
+        "title": "Scalable Design",
+        "description": "With how fast the technology and demand evolve, the design should always be highly scalable and portable."
       },
       "concept_key_2": {
         "title": "Simplicity",
-        "description": "I consider design to be a key part of a project, and therefore I opt for attractive user interfaces without losing simplicity. Less is more."
+        "description": "I love to write simple, decoupled code that is easy to maintain."
       },
       "concept_key_3": {
-        "title": "Best practices",
-        "description": "For both team and individual work, I consider very important to build a quality code: organized, simple, tested and reusable."
+        "title": "Best Practices",
+        "description": "I'm always open to adopt best practices to improve efficiency, teamwork and productivity."
       },
       "concept_key_4": {
-        "title": "Latest technology",
-        "description": "I am interested in new technologies and I believe in continuous training. The last technology I learnt was Gatsby, which is very trendy nowadays."
+        "title": "Growth Mindset",
+        "description": "I have a proven track record to learn and adopt different technologies successfully. "
       }
     },
     "my_story": {
       "title": "My story",
-      "section_1": "I obtained a Bachelor in Business Administration and Management at the University of Barcelona in 2012. Once I finished my studies, I took up a career path as an accountant and I kept growing until I became Team Manager.",
-      "section_2": "Six years later, I realized that this path no longer fulfilled me. I needed a new challenge where I could keep on growing as a professional.",
-      "section_3": "All signs were appointing to programming and I felt an irresistible need to explore this field. Thus, in early 2019, I quit my job and started learning on my own. From September 2019 to December 2019, I was enrolled in a programming Bootcamp in Skylab to consolidate and expand my knowledge."
+      "section_1": "I obtained a Bachelor in Human Kinetics at the University of British Columbia in 2011. Once I finished my studies, my part time job offered to promote me and I became a Store Manager in a Consumer Electronics Retail Store.",
+      "section_2": "Four years later, I realized my passion was in technology, so I went back to school at the University of Toronto to turn my passion into a profession.",
+      "section_3": "After much hardwork, I was finishing my Computer Science Specialist program at UT while enjoying my co-op with CGI Canada."
     },
     "nowadays": {
       "title": "Nowadays",
-      "section_1": "I am currently working for Interficie: a company that develops custom e-commerce and creative solutions for a big companies.",
-      "section_2": "I am focused on JavaScript and my technology stack is as follows: React, Gatsby, Node, SQL and Express."
+      "section_1": "I am currently working as a Technical Lead at CGI, with experiences in Microservices (Java) and Public Cloud.",
+      "section_2": "I am certified in AWS (Developer Associate) and GCP (Associate Cloud Engineer)."
     },
     "passions": {
       "title": "Passions",

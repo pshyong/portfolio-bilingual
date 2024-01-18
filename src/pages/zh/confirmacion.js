@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 import Confirmation from '../../components/Confirmation'
 import LayoutWithMenu from '../../components/Layout/LayoutWithMenu'
 
-const lang = 'es'
+const lang = 'zh'
 
 const ConfirmationPage = ({ location }) => {
   const { seoJson } = useStaticQuery(graphql`
